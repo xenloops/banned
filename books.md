@@ -1,13 +1,34 @@
 
 
-Title|Author|Publisher|Year pub|Year(s) banned|Sources
----|---|---|---|---|---
-_How to Be an Antiracist_|Ibram X. Kendi||2019||1
-_I Am Jazz_|Jazz Jennings, Jessica Herthel||||1
-_Infinite Moment of Us, the_|Lauren Myracle||||1
-_Tango Makes Three, and_|Justin Richardson, Peter Parnell|Simon & Schuster|2005|2021|1
-_Two Boys Kissing_|David Levithan||2013|2021|1
-_Stamped: Racism, Antiracism, and You_|Ibram X. Kendi, Jason Reynolds||||1
+Title|Author|Publisher|Year pub|Sources
+---|---|---|---|---
+_57 Bus: A True Story of Two Teenagers and the Crime That Changed Their Lives, the_|Dashka Slater|||1
+_All American Boys_|Jason Reynolds, Brendan Kiely|||1
+_Almost Perfect_|Brian Katcher|Delacorte Books||1
+_Being Jazz: My Life as a (Transgender) Teen_|Jazz Jennings|||1
+_Court of Mist and Fury, a_|Sarah J. Maas|||1
+_Dear Martin_|Nic Stone||2017|1
+_Extremely Loud & Incredibly Close_|Jonathan Safran Foer||2005|1
+_How to Be an Antiracist_|Ibram X. Kendi||2019|1
+_I Am Jazz_|Jazz Jennings, Jessica Herthel|||1
+_Infinite Moment of Us, the_|Lauren Myracle|||1
+_Killing Mr. Griffin_|Lois Duncan||1978|1
+_Lucky_|Alice Sebold|||1
+_Monday's Not Coming_|Tiffany D. Jackson||2018|1
+_More Happy Than Not_|Adam Silvera|||1
+_Nineteen Minutes_|Jodi Picoult||2007|1
+_Perfectly Normal: Changing Bodies, Growing Up, Sex and Sexual Health, it's_|Robie Harris||1994|1
+_Perks of Being a Wallflower, the_|Stephen Chbosky||1999|1
+_Real Live Boyfriends: Yes. Boyfriends, Plural. If My Life Weren't Complicated, I Wouldn't Be Ruby Oliver_|E. Lockhart||2010|1
+_Sold_|Patricia McCormick|||1
+_Speak_|Laurie Halse Anderson|||1
+_Tango Makes Three, and_|Justin Richardson, Peter Parnell|Simon & Schuster|2005|1
+_Tricks_|Ellen Hopkins||2009|1
+_Truth About Alice, the_|Jennifer Mathieu|Roaring Brook Press|2014|1
+_Two Boys Kissing_|David Levithan||2013|1
+_Stamped: Racism, Antiracism, and You_|Ibram X. Kendi, Jason Reynolds|||1
+_We Are the Ants_|Shaun David Hutchinson|||1
+
 
 
 
