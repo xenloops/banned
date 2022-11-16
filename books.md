@@ -3,7 +3,7 @@
 Title|Author|Publisher|Year pub|Threats?|Sources
 ---|---|---|---|---|---
 _57 Bus: A True Story of Two Teenagers and the Crime That Changed Their Lives, the_|Dashka Slater||||1
-_Absolutely True Diary of a Part-Time Indian, the_|Sherman Alexie|Little, Brown Books for Young Readers|2007||1,2
+_Absolutely True Diary of a Part-Time Indian, the_|Sherman Alexie|Little, Brown Books for Young Readers|2007||1,2,4
 _Alice's Adventures in Wonderland_|Lewis Carroll||1865||4
 _All American Boys_|Jason Reynolds, Brendan Kiely||||1
 _All Boys Aren't Blue_|George M. Johnson|Farrar, Straus and Giroux|2020||1,2,4
@@ -11,8 +11,9 @@ _Almost Perfect_|Brian Katcher|Delacorte Books|||1
 _Animal Farm_|George Orwell||1945||3
 _Being Jazz: My Life as a (Transgender) Teen_|Jazz Jennings||||1
 _Beloved_|Toni Morrison||1987||1,3
-_Beyond Magenta: Transgender Teens Speak Out_|Susan Kuklin|Candlewick Press|||1,2
+_Beyond Magenta: Transgender Teens Speak Out_|Susan Kuklin|Candlewick Press|||1,2,4
 _Bluest Eye, the_|Toni Morrison|Vintage|1970||1,2,4
+_Brave New World_|Aldous Huxley||1931||4
 _Breakaways, the_|Cathy G. Johnson||||1
 _Call of the Wild, the_|Jack London||1903||4
 _Catcher in the Rye, the_|J.D. Salinger||1951||3
@@ -30,26 +31,28 @@ _George_|Alex Gino||2017||4
 _Giver, the_|Lois Lowry||1993||4
 _Go Ask Alice_|Anonymous||1971||4
 _Handmaid's Tale, the|Margaret Atwood||1985||1,4
+_Harry Potter_ series|J.K. Rowling||Various||4
 _Hate U Give, the_|Angie Thomas|Balzer & Bray/Harperteen|2017||1,2,4
 _How to Be an Antiracist_|Ibram X. Kendi||2019||1
 _I Am Jazz_|Jazz Jennings, Jessica Herthel||||1
 _I Know Why the Caged Bird Sings_|Maya Angelou||1969||4
 _Infinite Moment of Us, the_|Lauren Myracle||||1
 _Jack of Hearts (And Other Parts)_|L. C. Rosen|Little, Brown Books for Young Readers|||1
+_James and the Giant Peach_|Roald Dahl||1961||4
 _Killing Mr. Griffin_|Lois Duncan||1978||1
 _Kite Runner, the_|Khaled Hosseini||||1,4
 _l8r, g8r_|Lauren Myracle||2007||1
-_Lawn Boy, the_|Jonathan Evison|Algonquin Books|2018|Y|1,2
+_Lawn Boy, the_|Jonathan Evison|Algonquin Books|2018|Y|1,2,4
 _Lolita_|Vladimir Nabokov||1955||3
 _Looking For Alaska_|John Green||||1
 _Lucky_|Alice Sebold||||1
 _Maus_|Art Spiegelman||1986||4
-_Me and Earl and the Dying Girl_|Jesse Andrews|Amulet Books|||1,2
+_Me and Earl and the Dying Girl_|Jesse Andrews|Amulet Books|||1,2,4
 _Melissa (George)_|Alex Gino||||1
 _Monday's Not Coming_|Tiffany D. Jackson||2018||1
 _More Happy Than Not_|Adam Silvera||||1
 _Nineteen Minutes_|Jodi Picoult||2007||1
-_Of Mice and Men_|John Steinbeck||1937||3
+_Of Mice and Men_|John Steinbeck||1937||3,4
 _Out of Darkness_|Ashley Hope Pérez|Holiday House|2015||1,2,4
 _Perfectly Normal: Changing Bodies, Growing Up, Sex and Sexual Health, it's_|Robie Harris||1994||1
 _Perks of Being a Wallflower, the_|Stephen Chbosky||1999||1
@@ -73,7 +76,7 @@ _Ulysses_|James Joyce||1922||3
 _We Are the Ants_|Shaun David Hutchinson||||1
 _Where’s Waldo?_ series|Martin Handford||Various||4
 _Where the Wild Things Are_|Maurice Sendak||1963||4
-
+_Wrinkle in Time, a_|Madeleine L’Engle||1962||4
 
 
 
